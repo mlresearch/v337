@@ -3,7 +3,7 @@ booktitle: Proceedings of the 42nd Conference on Uncertainty in Artificial Intel
 shortname: UAI
 volume: '337'
 year: '2026'
-start: &1 2026-08-17
+start: 2026-08-17
 end: 2026-08-21
 published: 2026-08-06
 layout: proceedings
@@ -70,7 +70,7 @@ conference:
   url: https://www.auai.org/uai2026/
   location: KIT, Amsterdam, the Netherlands
   dates:
-  - *1
+  - 2026-08-17
   - 2026-08-18
   - 2026-08-19
   - 2026-08-20
